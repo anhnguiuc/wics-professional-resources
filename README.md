@@ -13,6 +13,7 @@ The resources available to you will be divided into these sections, feel free to
 
 [Professional Development Assistance](#professional-development-assistance)
 
+[Get a certificate for a skill](#get-a-certificate)
 
 ## Research Opportunities
 
@@ -87,3 +88,13 @@ This section includes paid research/teaching/other opportunities on campus and w
 
 - [Writers Workshop](https://writersworkshop.illinois.edu/)
   - Schedule an appointment or join one of their workshop for your writing needs! For classes, scientific writing, creative writing, they've got you covered!
+
+## Get a Certificate
+Want to apply for an internship/job and want to strengthen your resume? Check out these learning pages:
+
+- [Coursera](https://www.coursera.org/)
+  - Students get 1 course for free
+  - 7-day trial for many courses to get a quick certificate
+  - Illinois courses are free
+- [LinkedIn Learning](https://www.linkedin.com/learning-login/continue?forceAccount=false&authModeName=iTrust-Proxy&authUUID=dORNeSAlQdWE7D9hQhLBHg%3D%3D&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2F)
+  - Free if you connect to your Illinois account
