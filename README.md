@@ -17,13 +17,13 @@ The resources available to you will be divided into these sections, feel free to
 
 ## Research Opportunities
 
-- [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES VERY ENCOURAGED**! 
+### [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES VERY ENCOURAGED**! 
   Perks/details:
   - Choose a project that you interested in most (there are [60](https://uofi.app.box.com/s/lgei7url724mj9iq9wb5svctq89fpb3d))
   - Enroll in a research course to learn about crafting a research poster and presenting
   - Work a minimum of 5-10 hours on a project
 
-- Join a lab outside of URAP (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
+### Join a lab outside of URAP (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
   
   - Find a lab/area that interests you:
     - [Engineering](https://grainger.illinois.edu/research/undergraduate/get-involved/how-to)
@@ -46,7 +46,7 @@ The resources available to you will be divided into these sections, feel free to
   - Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
   - Decide!
 
-- Other programs for Engineering students:
+### Other programs for Engineering students:
   - [ISUR](https://isur.engineering.illinois.edu/application/) (due date TBD)
     - For engineering undergrads who already joined a research lab
     - Earn funding ($500/semester) for both you & your mentor
@@ -58,11 +58,11 @@ The resources available to you will be divided into these sections, feel free to
   - [PURE](https://pure.engr.illinois.edu/) (due date in Spring 2023)
     - Student-run program that match undergrads with grad students for a semester-long research project
 
-- Research experiences for undergraduates (REU):
+### Research experiences for undergraduates (REU):
   - Nation-wide opportunities
   - [Details](https://grainger.illinois.edu/research/undergraduate/reu-program)
 
-- [PAID computational research with SPIN](https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
+### [PAID computational research with SPIN](https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
 
 ## Employment Opportunities
 This section includes paid research/teaching/other opportunities on campus and where to find internships/co-ops
@@ -75,7 +75,7 @@ This section includes paid research/teaching/other opportunities on campus and w
 
 ## Professional Development Assistance
 
-- Career Services Offices:
+### Career Services Offices:
   - Provides assistance on resume building, career paths exploration, mock interview, career fair preparation!!!
   - You'll be able to schedule 1-on-1 appointment with them to tailor your career development paths
   - Some offices on campus:
@@ -83,18 +83,18 @@ This section includes paid research/teaching/other opportunities on campus and w
     - [Engineering Career Services](https://ecs.engineering.illinois.edu/)
     - [The Career Center](https://www.careercenter.illinois.edu/): available to everyone on campus
 
-- [Workshops by the Office of Undergraduate Research:](https://undergradresearch.illinois.edu/programs/workshops.html)
+### [Workshops by the Office of Undergraduate Research:](https://undergradresearch.illinois.edu/programs/workshops.html)
   - Learn how to plan your research paths, adding the research experience to your resume, writing, designing posters for research, or learn about what research can bring to your undergraduate experience
 
-- [Writers Workshop](https://writersworkshop.illinois.edu/)
+### [Writers Workshop](https://writersworkshop.illinois.edu/)
   - Schedule an appointment or join one of their workshop for your writing needs! For classes, scientific writing, creative writing, they've got you covered!
 
 ## Get a Certificate
 Want to apply for an internship/job and want to strengthen your resume? Check out these learning pages:
 
-- [Coursera](https://www.coursera.org/)
+### [Coursera](https://www.coursera.org/)
   - Students get 1 course for free
   - 7-day trial for many courses to get a quick certificate
   - Illinois courses are free
-- [LinkedIn Learning](https://www.linkedin.com/learning-login/continue?forceAccount=false&authModeName=iTrust-Proxy&authUUID=dORNeSAlQdWE7D9hQhLBHg%3D%3D&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2F)
+### [LinkedIn Learning](https://www.linkedin.com/learning-login/continue?forceAccount=false&authModeName=iTrust-Proxy&authUUID=dORNeSAlQdWE7D9hQhLBHg%3D%3D&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2F)
   - Free if you connect to your Illinois account
