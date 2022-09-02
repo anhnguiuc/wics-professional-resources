@@ -7,9 +7,9 @@ This document serves to provide members of the Women in Chemical Sciences (as we
 ## Overview 
 The resources available to you will be divided into these sections, feel free to click on the ones that interest you!
 
-[1. Research Opportunities](#research-opportunities)
-
-[2. Professional Development Assistance](#professional-development-assistance)
+[Research Opportunities](#research-opportunities)
+[Employment Opportunities](#employment-opportunities)
+[Professional Development Assistance](#professional-development-assistance)
 
 ## Research Opportunities
 
@@ -27,10 +27,11 @@ The resources available to you will be divided into these sections, feel free to
     - [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/research.html)
     - [Integrative Biology](https://sib.illinois.edu/research/undergraduate)
     - [Plant Biology](https://sib.illinois.edu/plantbio/undergraduate_research)
+    - Or any professors/TAs you have interacted with/taken a course with!
   
   - Craft an email expressing your interest
-    - 2-3 sentences of why you're interested: coursework that is relevant, career goals related to their research, etc.
-    - 2-3 sentences of intended length of stay, your plan on how you'll use what you gain from their lab
+    - 2-3 sentences of why you're interested: your coursework/skills that are relevant, career goals related to their research, etc.
+    - 2-3 sentences of intended length of stay, your plan on how you'll use what you gain from their lab & what you can contribute to the lab
     - Ask if they have undergraduate position openings
     - Thank them for their consideration
     - Attach your resume
@@ -41,7 +42,31 @@ The resources available to you will be divided into these sections, feel free to
   - Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
   - Decide!
 
+- Other programs for Engineering students:
+  - [ISUR](https://isur.engineering.illinois.edu/application/) (due date TBD)
+    - Earn funding ($500/semester) for both you & your mentor
+    - Develop essential skills in research (communication, presentation)
+    - Present your research
+  - [MUSE](https://muse.engineering.illinois.edu/application-process/)(no due date)
+    - Get matched with a graduate student mentor based on your research interests
+    - After matching, you can decide whether to work together on a project **OR** work on your professional development (general resume building, application to professional/graduate school, etc.)
+  - [PURE](https://pure.engr.illinois.edu/) (due date in Spring 2023)
+    - Student-run program that match undergrads with grad students for a semester-long research project
+
+- Research experiences for undergraduates (REU):
+  - Nation-wide opportunities
+  - [Details](https://grainger.illinois.edu/research/undergraduate/reu-program)
+
 - [PAID computational research with SPIN](https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
+
+## Employment Opportunities
+This section includes paid research/teaching/other opportunities on campus and where to find internships/co-ops
+
+- [Research internships](https://grainger.illinois.edu/research/undergraduate/research-internships)
+- Research Park
+- Handshake
+- Career Fairs
+- Virtual Job Board
 
 ## Professional Development Assistance
 
