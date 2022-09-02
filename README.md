@@ -78,10 +78,8 @@ This section includes paid research/teaching/other opportunities on campus and w
     - [Engineering Career Services](https://ecs.engineering.illinois.edu/)
     - [The Career Center](https://www.careercenter.illinois.edu/): available to everyone on campus
 
-- Workshops by the Office of Undergraduate Research:
-  - [Details](https://undergradresearch.illinois.edu/programs/workshops.html)
+- [Workshops by the Office of Undergraduate Research:](https://undergradresearch.illinois.edu/programs/workshops.html)
   - Learn how to plan your research paths, adding the research experience to your resume, writing, designing posters for research, or learn about what research can bring to your undergraduate experience
 
-- Writers Workshop
-  - [Details](https://writersworkshop.illinois.edu/)
+- [Writers Workshop](https://writersworkshop.illinois.edu/)
   - Schedule an appointment or join one of their workshop for your writing needs! For classes, scientific writing, creative writing, they've got you covered!
