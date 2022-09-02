@@ -27,7 +27,7 @@ The resources available to you will be divided into these sections, feel free to
 
 ### Join a lab outside of URAP (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
   
-  1. Find a lab/area that interests you
+  - Find a lab/area that interests you
     - [Engineering](https://grainger.illinois.edu/research/undergraduate/get-involved/how-to); 
     - [Chemistry](https://chemistry.illinois.edu/research/undergraduate-research/faculty-and-research-interests); 
     - [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/research.html); 
@@ -35,7 +35,7 @@ The resources available to you will be divided into these sections, feel free to
     - [Plant Biology](https://sib.illinois.edu/plantbio/undergraduate_research); 
     - Or any professors/TAs you have interacted with/taken a course with!
   
-  2. Craft an email expressing your interest
+  - Craft an email expressing your interest
     - 2-3 sentences of why you're interested: your coursework/skills that are relevant, career goals related to their research, etc.
     - 2-3 sentences of intended length of stay, your plan on how you'll use what you gain from their lab & what you can contribute to the lab
     - Ask if they have undergraduate position openings
@@ -43,10 +43,10 @@ The resources available to you will be divided into these sections, feel free to
     - Attach your resume
     - FOR MORE: COME TO OUR WORKSHOP (date TBD)!
   
-  3. Proofread your email, consult an upperclassman/professional, and send
-  4. Follow-up if you don't hear back after 1-2 weeks
-  5. Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
-  6. Decide and start your journey!
+  - Proofread your email, consult an upperclassman/professional, and send
+  - Follow-up if you don't hear back after 1-2 weeks
+  - Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
+  - Decide and start your journey!
 
 ### Other programs for Engineering students:
   - [ISUR](https://isur.engineering.illinois.edu/application/) (due date TBD)
