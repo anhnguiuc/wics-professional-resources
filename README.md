@@ -13,7 +13,7 @@ The resources available to you will be divided into these sections, feel free to
 
 [Professional Development Assistance](#professional-development-assistance)
 
-[Get a certificate for a skill](#get-a-certificate)
+[Strengthen Your Resume or Skillset](#get-a-certificate)
 
 [Other random tips](#random-tips)
 
