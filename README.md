@@ -8,6 +8,7 @@ This document serves to provide members of the Women in Chemical Sciences (as we
 The resources available to you will be divided into these sections, feel free to click on the ones that interest you!
 
 [1. Research Opportunities](#research-opportunities)
+
 [2. Professional Development Assistance](#professional-development-assistance)
 
 ## 1. Research Opportunities
