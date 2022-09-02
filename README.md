@@ -28,11 +28,18 @@ The resources available to you will be divided into these sections, feel free to
 ### Join a lab outside of URAP (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
   
   1. Find a lab/area that interests you:
+
+
     - [Engineering](https://grainger.illinois.edu/research/undergraduate/get-involved/how-to)
+    
     - [Chemistry](https://chemistry.illinois.edu/research/undergraduate-research/faculty-and-research-interests)
+    
     - [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/research.html)
+    
     - [Integrative Biology](https://sib.illinois.edu/research/undergraduate)
+    
     - [Plant Biology](https://sib.illinois.edu/plantbio/undergraduate_research)
+    
     - Or any professors/TAs you have interacted with/taken a course with!
   
   2. Craft an email expressing your interest
