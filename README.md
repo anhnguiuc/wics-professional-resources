@@ -11,7 +11,7 @@ The resources available to you will be divided into these sections, feel free to
 
 [2. Professional Development Assistance](#professional-development-assistance)
 
-## 1. Research Opportunities
+## Research Opportunities
 
 - [Undergraduate Research Apprentice Program](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES VERY ENCOURAGED**! 
   Perks/details:
@@ -43,7 +43,7 @@ The resources available to you will be divided into these sections, feel free to
 
 - [PAID computational research with SPIN] (https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
 
-## 2. Professional Development Assistance
+## Professional Development Assistance
 
 - Career Services Offices:
   - Provides assistance on resume building, career paths exploration, mock interview, career fair preparation!!!
