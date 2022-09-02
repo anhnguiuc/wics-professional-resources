@@ -2,7 +2,7 @@
 
 ## Background
 
-This document serves to provide members of the Women in Chemical Sciences (as well as any chemical & biological sciences students) at the University of Illinois with resources on campus for their own professional development journey. Created in Fall 2022. Updates to this document will be visible on the respitory. Any questions/concerns can be forwarded to anhtn2@illinois.edu
+This document serves to provide members of the Women in Chemical Sciences (as well as any chemical & biological sciences students) at the University of Illinois with resources on campus for their own professional development journey. Created in Fall 2022. Updates to this document will be visible on the respository. Any questions/concerns can be forwarded to anhtn2@illinois.edu
 
 ## Overview 
 The resources available to you will be divided into these sections, feel free to click on the ones that interest you!
