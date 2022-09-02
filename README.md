@@ -16,7 +16,7 @@ The resources available to you will be divided into these sections, feel free to
 
 ## Research Opportunities
 
-- [Undergraduate Research Apprentice Program](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES VERY ENCOURAGED**! 
+- [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES VERY ENCOURAGED**! 
   Perks/details:
   - Choose a project that you interested in most (there are [60](https://uofi.app.box.com/s/lgei7url724mj9iq9wb5svctq89fpb3d))
   - Enroll in a research course to learn about crafting a research poster and presenting
@@ -47,6 +47,7 @@ The resources available to you will be divided into these sections, feel free to
 
 - Other programs for Engineering students:
   - [ISUR](https://isur.engineering.illinois.edu/application/) (due date TBD)
+    - For engineering undergrads who already joined a research lab
     - Earn funding ($500/semester) for both you & your mentor
     - Develop essential skills in research (communication, presentation)
     - Present your research
@@ -77,7 +78,7 @@ This section includes paid research/teaching/other opportunities on campus and w
   - Provides assistance on resume building, career paths exploration, mock interview, career fair preparation!!!
   - You'll be able to schedule 1-on-1 appointment with them to tailor your career development paths
   - Some offices on campus:
-    - [SCS Career Service](https://scs.illinois.edu/academics/careers): pertains to SCS majors (Chemistry, Chemical Engineering). Without them, I would not have gotten my internship/co-op interviews, and many upperclassmen will agree!
+    - [SCS Career Service](https://scs.illinois.edu/academics/careers): pertains to SCS majors (Chemistry, Chemical Engineering). Without them, I would not have gotten my internship/co-op interviews, and many other upperclassmen will agree!
     - [Engineering Career Services](https://ecs.engineering.illinois.edu/)
     - [The Career Center](https://www.careercenter.illinois.edu/): available to everyone on campus
 
