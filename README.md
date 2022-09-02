@@ -41,7 +41,7 @@ The resources available to you will be divided into these sections, feel free to
   - Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
   - Decide!
 
-- [PAID computational research with SPIN] (https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
+- [PAID computational research with SPIN](https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
 
 ## Professional Development Assistance
 
@@ -53,3 +53,10 @@ The resources available to you will be divided into these sections, feel free to
     - [Engineering Career Services](https://ecs.engineering.illinois.edu/)
     - [The Career Center](https://www.careercenter.illinois.edu/): available to everyone on campus
 
+- Workshops by the Office of Undergraduate Research:
+  - [Details](https://undergradresearch.illinois.edu/programs/workshops.html)
+  - Learn how to plan your research paths, adding the research experience to your resume, writing, designing posters for research, or learn about what research can bring to your undergraduate experience
+
+- Writers Workshop
+  - [Details](https://writersworkshop.illinois.edu/)
+  - Schedule an appointment or join one of their workshop for your writing needs! For classes, scientific writing, creative writing, they've got you covered!
