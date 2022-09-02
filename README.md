@@ -2,7 +2,7 @@
 
 ## Background
 
-This document serves to provide members of the Women in Chemical Sciences (as well as any chemical & biological sciences students) at the University of Illinois with resources on campus for their own professional development journey. Updates to this document will be visible on the respitory. Any questions/concerns can be forwarded to anhtn2@illinois.edu
+This document serves to provide members of the Women in Chemical Sciences (as well as any chemical & biological sciences students) at the University of Illinois with resources on campus for their own professional development journey. Created in Fall 2022. Updates to this document will be visible on the respitory. Any questions/concerns can be forwarded to anhtn2@illinois.edu
 
 ## Overview 
 The resources available to you will be divided into these sections, feel free to click on the ones that interest you!
@@ -15,17 +15,19 @@ The resources available to you will be divided into these sections, feel free to
 
 [Get a certificate for a skill](#get-a-certificate)
 
+[Other random tips](#random-tips)
+
 ## Research Opportunities
 
 ### [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES VERY ENCOURAGED**! 
   Perks/details:
   - Choose a project that you interested in most (there are [60](https://uofi.app.box.com/s/lgei7url724mj9iq9wb5svctq89fpb3d))
-  - Enroll in a research course to learn about crafting a research poster and presenting
+  - Enroll in a 3-credit research course to learn more about doing research, crafting a research poster, and presenting
   - Work a minimum of 5-10 hours on a project
 
 ### Join a lab outside of URAP (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
   
-  - Find a lab/area that interests you:
+  1. Find a lab/area that interests you:
     - [Engineering](https://grainger.illinois.edu/research/undergraduate/get-involved/how-to)
     - [Chemistry](https://chemistry.illinois.edu/research/undergraduate-research/faculty-and-research-interests)
     - [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/research.html)
@@ -33,7 +35,7 @@ The resources available to you will be divided into these sections, feel free to
     - [Plant Biology](https://sib.illinois.edu/plantbio/undergraduate_research)
     - Or any professors/TAs you have interacted with/taken a course with!
   
-  - Craft an email expressing your interest
+  2. Craft an email expressing your interest
     - 2-3 sentences of why you're interested: your coursework/skills that are relevant, career goals related to their research, etc.
     - 2-3 sentences of intended length of stay, your plan on how you'll use what you gain from their lab & what you can contribute to the lab
     - Ask if they have undergraduate position openings
@@ -41,10 +43,10 @@ The resources available to you will be divided into these sections, feel free to
     - Attach your resume
     - FOR MORE: COME TO OUR WORKSHOP (date TBD)!
   
-  - Proofread your email, consult an upperclassman/professional, and send
-  - Follow-up if you don't hear back after 1-2 weeks
-  - Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
-  - Decide!
+  3. Proofread your email, consult an upperclassman/professional, and send
+  4. Follow-up if you don't hear back after 1-2 weeks
+  5. Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
+  6. Decide and start your journey!
 
 ### Other programs for Engineering students:
   - [ISUR](https://isur.engineering.illinois.edu/application/) (due date TBD)
@@ -98,3 +100,13 @@ Want to apply for an internship/job and want to strengthen your resume? Check ou
   - Illinois courses are free
 ### [LinkedIn Learning](https://www.linkedin.com/learning-login/continue?forceAccount=false&authModeName=iTrust-Proxy&authUUID=dORNeSAlQdWE7D9hQhLBHg%3D%3D&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2F)
   - Free if you connect to your Illinois account
+
+## Random Tips
+
+- Use a calendar app to keep track of classes, assignments, exams, as well as events. It is very easy to have something slipped your mind! You can import events from RSOs or your class schedule (on Self-Service) to your interactive electronic calendar!
+  - Google Calendar
+  - iOS Calendar
+  - Notion
+  - Physical calendar
+
+- Go to office hours if you have time!
