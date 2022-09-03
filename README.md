@@ -87,9 +87,9 @@ This section includes paid research/teaching/other opportunities on campus and w
 ### General Recuiting Timeline & More:
 Recruiting happens fast, so make sure to submit your applications before all the positions are filled!
 
-| Internship/Co-op During:      | Most of Recruiting Happens During: |
+| Internship/Co-op During:      | *Most* of Recruiting Happens During: |
 | ----------- | ----------- |
-| Summer 2023      | September-October 2022       |
+| Summer 2023      | September-November 2022       |
 | Fall 2023   | December 2022-March 2023        |
 
 - 2 main types of interviews for internships/co-ops:
