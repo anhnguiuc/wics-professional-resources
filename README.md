@@ -19,7 +19,7 @@ The resources available to you will be divided into these sections, feel free to
 
 ## Research Opportunities
 
-### [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES VERY ENCOURAGED**! 
+### [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES HIGHLY ENCOURAGED**! 
   Perks/details:
   - Choose a project that you interested in most (there are [60](https://uofi.app.box.com/s/lgei7url724mj9iq9wb5svctq89fpb3d))
   - Enroll in a 3-credit research course to learn more about doing research, crafting a research poster, and presenting
@@ -76,7 +76,7 @@ This section includes paid research/teaching/other opportunities on campus and w
 - [Handshake](https://handshake.illinois.edu//)
   - The main site for employers' recruitment on the Illinois campus
   - Details about the career fairs will be on there (companies, openings, who to contact)
-- Career Fairs
+- Career Fairs (Fall & Spring)
   - Employers come to campus to recruit
   - Direct interaction with employers & learn more about the companies
   - Many companies will also have their own events before the official career fair, so **make sure to go to those** and show your interest! 
@@ -86,14 +86,16 @@ This section includes paid research/teaching/other opportunities on campus and w
 
 ### General Recuiting Timeline & More:
 Recruiting happens fast, so make sure to submit your applications before all the positions are filled!
+
 | Internship/Co-op During:      | Most of Recruiting Happens During: |
 | ----------- | ----------- |
-| Summer 2023      | September-November 2022       |
+| Summer 2023      | September-October 2022       |
 | Fall 2023   | December 2022-March 2023        |
 
 - 2 main types of interviews for internships/co-ops:
   - Behavioral
   - Technical
+  
   We **highly** recommend doing a mock interview with the [Career Services Offices](#professional-development-assistance) (bellow this section)
 
 ## Professional Development Assistance
