@@ -60,9 +60,9 @@ The resources available to you will be divided into these sections, feel free to
   - [PURE](https://pure.engr.illinois.edu/) (due date in Spring 2023)
     - Student-run program that match undergrads with grad students for a semester-long research project
 
-### Research experiences for undergraduates (REU):
-  - Nation-wide opportunities
-  - [Details](https://grainger.illinois.edu/research/undergraduate/reu-program)
+### Summer research experiences for undergraduates (REU):
+  - [Nation-wide opportunities](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)
+  - [On-campus opportunities](https://grainger.illinois.edu/research/undergraduate/reu-program)
 
 ### [PAID computational research with SPIN](https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
 
@@ -70,10 +70,31 @@ The resources available to you will be divided into these sections, feel free to
 This section includes paid research/teaching/other opportunities on campus and where to find internships/co-ops
 
 - [Research internships](https://grainger.illinois.edu/research/undergraduate/research-internships)
-- Research Park
-- Handshake
+- [Research Park](https://researchpark.illinois.edu/work-here/careers/)
+  - Innovation Hub for companies on the Illinois campus
+  - Also has a [career fair in the Spring](https://researchpark.illinois.edu/events/career-fair/)
+- [Handshake](https://handshake.illinois.edu//)
+  - The main site for employers' recruitment on the Illinois campus
+  - Details about the career fairs will be on there (companies, openings, who to contact)
 - Career Fairs
-- Virtual Job Board
+  - Employers come to campus to recruit
+  - Direct interaction with employers & learn more about the companies
+  - Many companies will also have their own events before the official career fair, so **make sure to go to those** and show your interest! 
+- [Virtual Job Board](https://secure.osfa.illinois.edu/vjb/joblist.aspx?listtype=nonfws)
+  - Many on-campus jobs will be posted on here, ranging from paid research, teaching, to dining services and cashier positions
+- Or: find companies that you're interested in and apply for internships/co-ops directly on there Career page!
+
+### General Recuiting Timeline & More:
+Recruiting happens fast, so make sure to submit your applications before all the positions are filled!
+| Internship/Co-op During:      | Most of Recruiting Happens During: |
+| ----------- | ----------- |
+| Summer 2023      | September-November 2022       |
+| Fall 2023   | December 2022-March 2023        |
+
+- 2 main types of interviews for internships/co-ops:
+  - Behavioral
+  - Technical
+  We **highly** recommend doing a mock interview with the [Career Services Offices](#professional-development-assistance) (bellow this section)
 
 ## Professional Development Assistance
 
@@ -109,4 +130,4 @@ Want to apply for an internship/job and want to strengthen your resume? Check ou
   - Notion
   - Physical calendar
 
-- Go to office hours if you have time!
+- Go to office hours if you have time! Get to know faculty and other students, learn from other people's questions.
