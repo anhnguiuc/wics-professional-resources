@@ -82,7 +82,7 @@ This section includes paid research/teaching/other opportunities on campus and w
   - Many companies will also have their own events before the official career fair, so **make sure to go to those** and show your interest! 
 - [Virtual Job Board](https://secure.osfa.illinois.edu/vjb/joblist.aspx?listtype=nonfws)
   - Many on-campus jobs will be posted on here, ranging from paid research, teaching, to dining services and cashier positions
-- Or: find companies that you're interested in and apply for internships/co-ops directly on there Career page!
+- Or: find companies that you're interested in and apply for internships/co-ops directly on their Career page!
 
 ### General Recuiting Timeline & More:
 Recruiting happens fast, so make sure to submit your applications before all the positions are filled!
