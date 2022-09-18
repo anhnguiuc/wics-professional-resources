@@ -133,3 +133,5 @@ Want to apply for an internship/job and want to strengthen your resume? Check ou
   - Physical calendar
 
 - Go to office hours if you have time! Get to know faculty and other students, learn from other people's questions.
+
+- [How to study](https://learncheme.com/student-resources/how-to-study-how-to-learn/) tips from University of Colorado
