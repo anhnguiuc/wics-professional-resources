@@ -4,7 +4,7 @@
 
 This document serves to provide members of the Women in Chemical Sciences (as well as any chemical & biological sciences students) at the University of Illinois with resources on campus for their own professional development journey. Created in Fall 2022. Updates to this document will be visible on the respository. Any questions/concerns can be forwarded to anhtn2@illinois.edu.
 
-Most recent update: 9/23. Added [funding resources](#funding) and [slide decks from the 9/20 research workshop](https://docs.google.com/presentation/d/16Z0CLuKGlQaCKyi1jKK0JNdOatrdmb2_CYdHExwohmU/edit?usp=sharing)
+Most recent update: 9/23. Added [funding resources](#funding), [slide decks from the 9/20 research workshop](https://docs.google.com/presentation/d/16Z0CLuKGlQaCKyi1jKK0JNdOatrdmb2_CYdHExwohmU/edit?usp=sharing), and [employers' events](#company-recruiting-events)
 
 ## Overview 
 The resources available to you will be divided into these sections, feel free to click on the ones that interest you!
@@ -110,8 +110,11 @@ Recruiting happens fast, so make sure to submit your applications before all the
 - 2 main types of interviews for internships/co-ops:
   - Behavioral
   - Technical
-  
-  We **highly** recommend doing a mock interview with the [Career Services Offices](#professional-development-assistance) (bellow this section)
+- We **highly** recommend doing a mock interview with the [Career Services Offices](#professional-development-assistance) (bellow this section)
+
+### Company recruiting events
+
+Attend employers' info sessions/events to show your interest and increase your chance of getting an interview! We have created a list of events [here](https://docs.google.com/spreadsheets/d/1HdGQxLDRX__ig9de2MBqFPoUn4aTHuRzQmy0oCbsq-k/edit?usp=sharing), but feel free to try and find more on your company of interest's website. Many have a lot of these events outside campus.
 
 ## Professional Development Assistance
 
