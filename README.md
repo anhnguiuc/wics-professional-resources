@@ -41,7 +41,7 @@ The resources available to you will be divided into these sections, feel free to
     - Ask if they have undergraduate position openings
     - Thank them for their consideration
     - Attach your resume
-    - FOR MORE: COME TO OUR WORKSHOP (date TBD)!
+    - Check out the [slide deck](https://docs.google.com/presentation/d/16Z0CLuKGlQaCKyi1jKK0JNdOatrdmb2_CYdHExwohmU/edit?usp=sharing) from our recent workshop (with an analyzed example)!
   
   - Proofread your email, consult an upperclassman/professional, and send
   - Follow-up if you don't hear back after 1-2 weeks
@@ -60,11 +60,24 @@ The resources available to you will be divided into these sections, feel free to
   - [PURE](https://pure.engr.illinois.edu/) (due date in Spring 2023)
     - Student-run program that match undergrads with grad students for a semester-long research project
 
+### Funding
+- ISUR ($500/semester) for engineering students
+- Fellowships: 
+  - MCB, Chemistry do faculty nomination during the spring semester for summer funding
+  - Beckman Institute Undergraduate Fellowship (your professor has to be affiliated with Beckman, $3000 for summer research)
+  - Clare Boothe Luce Scholar!!! ($12,000 total for science & engineering women doing research during 1 summer and 1 school year)
+  - DaRin Butz Foundation Scholar!!! ($5,000 for science & engineering women doing summer research)
+- Research Support Grant & Travel Grant from the Office of UGR
+- Scholarship:
+  - CHBE nomination during the Spring
+  - Grainger scholarship for continuing engineering students
+  - Illinois Club Scholarship (due in Oct)
+  - LAS Scholarship (due in May)
+  - REU during the summer for research at another university (more details in the section below)
+
 ### Summer research experiences for undergraduates (REU):
   - [Nation-wide opportunities](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)
   - [On-campus opportunities](https://grainger.illinois.edu/research/undergraduate/reu-program)
-
-### [PAID computational research with SPIN](https://docs.google.com/forms/d/e/1FAIpQLSe8WZcm_J_6Xrd_UbENfCmQCQ3ClEG9ldylmAH9fNT_mejcZA/viewform) (due Sept 4, 2022)
 
 ## Employment Opportunities
 This section includes paid research/teaching/other opportunities on campus and where to find internships/co-ops
