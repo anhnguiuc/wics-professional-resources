@@ -1,4 +1,4 @@
-# wics-profressional-resources
+# wics-professional-resources
 
 ## Background
 
