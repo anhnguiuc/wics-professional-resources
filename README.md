@@ -4,7 +4,10 @@
 
 This document serves to provide members of the Women in Chemical Sciences (as well as any chemical & biological sciences students) at the University of Illinois with resources on campus for their own professional development journey. Created in Fall 2022. Updates to this document will be visible on the respository. Any questions/concerns can be forwarded to anhtn2@illinois.edu.
 
-Most recent update: 9/23. Added [funding resources](#funding), [slide decks from the 9/20 research workshop](https://docs.google.com/presentation/d/16Z0CLuKGlQaCKyi1jKK0JNdOatrdmb2_CYdHExwohmU/edit?usp=sharing), and [employers' events](#company-recruiting-events)
+Most recent update: 10/9/2022. Added Interviewing information.
+
+Update on 9/23/2022: Added [funding resources](#funding), [slide decks from the 9/20 research workshop](https://docs.google.com/presentation/d/16Z0CLuKGlQaCKyi1jKK0JNdOatrdmb2_CYdHExwohmU/edit?usp=sharing), and [employers' events](#company-recruiting-events)
+
 
 ## Overview 
 The resources available to you will be divided into these sections, feel free to click on the ones that interest you!
@@ -21,11 +24,11 @@ The resources available to you will be divided into these sections, feel free to
 
 ## Research Opportunities
 
-### [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct. 6, 2022): **FRESHMEN/SOPHOMORES HIGHLY ENCOURAGED**! 
+### [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct in the Fall, March in the Spring): **FRESHMEN/SOPHOMORES HIGHLY ENCOURAGED**! 
   Perks/details:
-  - Choose a project that you interested in most (there are [60](https://uofi.app.box.com/s/lgei7url724mj9iq9wb5svctq89fpb3d))
+  - Choose a project that you interested in most (there are often over 50 projects!)
   - Enroll in a 3-credit research course to learn more about doing research, crafting a research poster, and presenting
-  - Work a minimum of 5-10 hours on a project
+  - Work a minimum of 5-10 hours on the research project
 
 ### Join a lab outside of URAP (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
   
@@ -108,8 +111,15 @@ Recruiting happens fast, so make sure to submit your applications before all the
 | Fall 2023   | December 2022-March 2023        |
 
 - 2 main types of interviews for internships/co-ops:
-  - Behavioral
-  - Technical
+  - Behavioral: Questions in the format of "Tell me about a time when..."
+    - Follow the [STAR format](https://careersherpa.net/star-interview-method/) for your answers
+    - Search up potential questions or ask the SCS Career Office for a list of potential questions
+    - Prepare your answers and practice!
+    - This preparation will not only help you format your answers better, but also to give you insights into what you did (weird, right? -- but sometimes you might not realize the impacts that you are creating in things you do on campus/in the classrooms/in labs/etc.). This process will also help with writing personal statements for scholarships/fellowships for now or later!
+  - Technical: Questions relating to major-specific knowledge or the role's required technical skills
+    - SCS Career Office also has a list of questions for this!
+    - Don't fret too much on these! Not everyone remembers everything that they learn. Interviewers are mainly looking at how you analyze the problem and your process of solving that problem!
+    
 - We **highly** recommend doing a mock interview with the [Career Services Offices](#professional-development-assistance) (bellow this section)
 
 ### Company recruiting events
