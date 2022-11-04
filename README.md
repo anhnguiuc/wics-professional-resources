@@ -13,7 +13,7 @@ The resources available to you will be divided into these clickable sections:
 
 
 ## Research Opportunities
-This section includes [organized campus programs](#general-programs), [join any labs](#join-a-lab), and [funding](#funding)
+This section includes [organized campus programs](#general-programs), [join any labs](#join-a-lab), [funding](#funding), and [summer opportunities](#Summer-research-experiences-for-undergraduates)
 
 
 ### General programs:
