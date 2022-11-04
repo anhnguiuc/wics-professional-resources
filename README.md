@@ -13,37 +13,14 @@ The resources available to you will be divided into these clickable sections:
 
 
 ## Research Opportunities
+This section includes [organized campus programs](#general-programs), [join any labs](#join-a-lab), and [funding](#funding)
 
-### [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct in the Fall, March in the Spring): **FRESHMEN/SOPHOMORES HIGHLY ENCOURAGED**! 
-  Perks/details:
-  - Choose a project that you interested in most (there are often over 50 projects!)
-  - Enroll in a 3-credit research course to learn more about doing research, crafting a research poster, and presenting
-  - Work a minimum of 5-10 hours on the research project
 
-### Join a lab outside of URAP (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
-  
-  - Find a lab/area that interests you
-    - [Engineering](https://grainger.illinois.edu/research/undergraduate/get-involved/how-to); 
-    - [Chemistry](https://chemistry.illinois.edu/research/undergraduate-research/faculty-and-research-interests); 
-    - [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/research.html); 
-    - [Integrative Biology](https://sib.illinois.edu/research/undergraduate); 
-    - [Plant Biology](https://sib.illinois.edu/plantbio/undergraduate_research); 
-    - Or any professors/TAs you have interacted with/taken a course with!
-  
-  - Craft an email expressing your interest
-    - 2-3 sentences of why you're interested: your coursework/skills that are relevant, career goals related to their research, etc.
-    - 2-3 sentences of intended length of stay, your plan on how you'll use what you gain from their lab & what you can contribute to the lab
-    - Ask if they have undergraduate position openings
-    - Thank them for their consideration
-    - Attach your resume
-    - Check out the [slide deck](https://docs.google.com/presentation/d/16Z0CLuKGlQaCKyi1jKK0JNdOatrdmb2_CYdHExwohmU/edit?usp=sharing) from our recent workshop (with an analyzed example)!
-  
-  - Proofread your email, consult an upperclassman/professional, and send
-  - Follow-up if you don't hear back after 1-2 weeks
-  - Normally, they will set up an informal interview/talk to discuss potential projects, lab, questions you might have
-  - Decide and start your journey!
-
-### Other programs for Engineering students:
+### General programs:
+  - [Undergraduate Research Apprentice Program (URAP)](https://undergradresearch.illinois.edu/programs/urap.html) (due Oct in the Fall, March in the Spring)
+    - Choose a project that you interested in most (there are often over 50 projects!)
+    - Enroll in a 3-credit research course to learn more about doing research, crafting a research poster, and presenting
+    - Work a minimum of 5-10 hours on the research project
   - [ISUR](https://isur.engineering.illinois.edu/application/) (due date TBD)
     - For engineering undergrads who already joined a research lab
     - Earn funding ($500/semester) for both you & your mentor
@@ -54,6 +31,19 @@ The resources available to you will be divided into these clickable sections:
     - After matching, you can decide whether to work together on a project **OR** work on your professional development (general resume building, application to professional/graduate school, etc.)
   - [PURE](https://pure.engr.illinois.edu/) (due date in Spring 2023)
     - Student-run program that match undergrads with grad students for a semester-long research project
+
+### Join a lab (if your schedule doesn't allow for another class, you have some research experience, or want more flexibility):
+  
+  - Find a lab/area that interests you
+    - [Engineering](https://grainger.illinois.edu/research/undergraduate/get-involved/how-to); 
+    - [Chemistry](https://chemistry.illinois.edu/research/undergraduate-research/faculty-and-research-interests); 
+    - [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/research.html); 
+    - [Integrative Biology](https://sib.illinois.edu/research/undergraduate); 
+    - [Plant Biology](https://sib.illinois.edu/plantbio/undergraduate_research); 
+    - Or any professors/TAs you have interacted with/taken a course with!
+  
+  - How to get started:
+    - Check out this [slide deck](https://docs.google.com/presentation/d/16Z0CLuKGlQaCKyi1jKK0JNdOatrdmb2_CYdHExwohmU/edit?usp=sharing)
 
 ### Funding
 - ISUR ($500/semester) for engineering students
