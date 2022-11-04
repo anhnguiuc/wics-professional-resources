@@ -1,7 +1,16 @@
 # wics-professional-resources (2022-2023)
 
 ## Overview 
-The resources available to you will be divided into these sections, feel free to click on the ones that interest you!
+The resources available to you will be divided into these clickable sections:
+
+| Info      | Details |
+| ----------- | ----------- |
+| [Research Opportunities](#research-opportunities)      | on-campus programs, funding       |
+| [Employment Opportunities](#employment-opportunities)   | paid programs, part-time jobs        |
+| 
+[Professional Development Assistance](#professional-development-assistance)   | resources to boost your prof. dev.        |
+
+
 
 [Research Opportunities](#research-opportunities)
 
