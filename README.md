@@ -8,18 +8,9 @@ The resources available to you will be divided into these clickable sections:
 | [Research Opportunities](#research-opportunities)      | on-campus programs, funding       |
 | [Employment Opportunities](#employment-opportunities)   | paid programs, part-time jobs        |
 | [Professional Development Assistance](#professional-development-assistance)   | resources to boost your prof. dev.        |
+| [Study tips](#random-tips)   | learn new skills, how to study        |
 
 
-
-[Research Opportunities](#research-opportunities)
-
-[Employment Opportunities](#employment-opportunities)
-
-[Professional Development Assistance](#professional-development-assistance)
-
-[Strengthen Your Resume or Skillset](#get-a-certificate)
-
-[Other random tips](#random-tips)
 
 ## Research Opportunities
 
