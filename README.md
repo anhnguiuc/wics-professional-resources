@@ -49,15 +49,15 @@ This section includes [organized campus programs](#general-programs), [join any 
 - ISUR ($500/semester) for engineering students
 - Fellowships: 
   - MCB, Chemistry do faculty nomination during the spring semester for summer funding
-  - Beckman Institute Undergraduate Fellowship (your professor has to be affiliated with Beckman, $3000 for summer research)
-  - Clare Boothe Luce Scholar!!! ($12,000 total for science & engineering women doing research during 1 summer and 1 school year)
-  - DaRin Butz Foundation Scholar!!! ($5,000 for science & engineering women doing summer research)
-- Research Support Grant & Travel Grant from the Office of UGR
+  - [Beckman Institute Fellowships for Undergrads](https://beckman.illinois.edu/research/fellowships-and-awards/guidelines-requirements-for-other-sponsored-awards-and-fellowships) (your professor has to be affiliated with Beckman, $3000 for summer research)
+  - [Clare Boothe Luce Research Scholar](https://isur.engineering.illinois.edu/clare-boothe-luce-research-scholars/) ($12,000 total for science & engineering women doing research during 1 summer and 1 school year)
+  - [DaRin Butz Foundation Scholar!!!](https://isur.engineering.illinois.edu/darin-butz-foundation-research-scholars/) ($5,000 for science & engineering women doing summer research)
+- [Research Support Grant & Travel Grant from the Office of UGR](https://undergradresearch.illinois.edu/students/funding.html)
 - Scholarship:
-  - CHBE nomination during the Spring
-  - Grainger scholarship for continuing engineering students
+  - CHBE nomination during the Spring (invite sent through email from the department)
+  - [Grainger scholarship for continuing engineering students](https://grainger.illinois.edu/academics/undergraduate/aid/scholarships-for-continuing-students) 
   - Illinois Club Scholarship (due in Oct)
-  - LAS Scholarship (due in May)
+  - LAS Scholarships (due in May)
   - REU during the summer for research at another university (more details in the section below)
 
 ### Summer research experiences for undergraduates (REU):
